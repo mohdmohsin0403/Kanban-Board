@@ -30,22 +30,30 @@ Check out the live project: [Kanban Board Live Demo](https://kanban-board-quicks
 
    ```bash
    git clone https://github.com/your-username/kanban-board.git
+   ```
 
 2. Install dependencies:
 
+```
     - bash
     - Copy code
     - cd kanban-board
     - npm install
-      
-3.Run the application:
+```
 
+3. Run the application:
+
+```
     - bash
     - Copy code
     - npm start
     - Open your browser and visit http://localhost:3000 to view the application.
+```
 
-Technologies Used
+4. Technologies Used
+
+```
     - React.js
     - React Beautiful DND (Drag and Drop)
     - Vanilla CSS
+```
